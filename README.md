@@ -17,6 +17,8 @@ The sample submission file contains the the serial number wise sorted data as pe
 * Please predict the values of bonds_aaa variable for the test dataset and sort it into a list as per clusters. The sorted file which is to be uploaded be a continuous file upto all serial numbers in the test data. 
 * Each serial number has a one to one mapping with the the bonds_aaa variable so the mapping must be preserved while predicting. For example, if the predicted value for serial number 10 is 40, the same relationship must be preserved in whichever cluster might it be filtered to.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 Data Description
 ------------------------
@@ -98,44 +100,7 @@ Annualized return = ((1 + Absolute Rate of Return) ^ (365/no. of days)) – 1
 OR 
 Annualized return = ((1 + Absolute Rate of Return) ^ (1/no. of years)) – 1
 
-
-
-**Alpha risk parameter for final 3 year assessment (alpha_3y variable):** Alpha is a measure of an investment’s performance on a risk-adjusted basis. It takes the volatility (price risk) of a security or fund portfolio and compares its risk-adjusted performance to a benchmark index. The excess return of the investment relative to the return of the benchmark index is its “alpha.” Simply stated, alpha is often considered to represent the value that a portfolio manager adds or subtracts from a fund portfolio’s return. An alpha of 1.0 means the fund has outperformed its benchmark index by 1%. Correspondingly, an alpha of -1.0 would indicate an underperformance of 1%. For investors, the higher the alpha the better.
-Read more: [Risk Parameters](https://www.investopedia.com/investing/measure-mutual-fund-risk/#ixzz5U1kaI0bk)
-
-
-
-**Beta risks parameter for final 3 year assessment (beta_3y variable):**
-
-Beta, also known as the “beta coefficient,” is a measure of the volatility, or systematic risk, of a security or a portfolio in comparison to the market as a whole. Beta is calculated using regression analysis, and you can think of it as the tendency of an investment’s return to respond to movements in the market. By definition, the market has a beta of 1.0. Individual security and portfolio values are measured according to how they deviate from the market. 
-A beta of 1.0 indicates that the investment’s price will move in lock-step with the market. A beta of less than 1.0 indicates that the investment will be less volatile than the market. Correspondingly, a beta of more than 1.0 indicates that the investment’s price will be more volatile than the market. For example, if a fund portfolio’s beta is 1.2, it’s theoretically 20% more volatile than the market. 
-Conservative investors looking to preserve capital should focus on securities and fund portfolios with low betas, while those investors willing to take on more risk in search of higher returns should look for high beta investments.
-Read more: [Risk Parameters](https://www.investopedia.com/investing/measure-mutual-fund-risk/#ixzz5U1lKtSsl)
-
-
-
-**3 year mean annual return (mean_annual_return_3y variable):** 
-
-The average of individual percentage returns of last three years
-Standard Deviation (standard_deviation_3y Variable): Standard deviation (SD) 
-measures the volatility the fund’s returns in relation to its average. 
-It tells you how much the fund’s return can deviate from the historical mean return of the scheme. If a fund has a 12% average rate of return and a standard deviation of 4%, its return will range from 8-16%.
-Computation: 
-Standard Deviation (SD) = Square root of Variance (V) 
-Variance = (Sum of squared difference between each monthly return and its mean / number of monthly return data.
-
-
-
-**Sharpe Ratio (sharpe_ratio_3y Variable):**
-
-The Sharpe ratio is the average return earned in excess of the risk-free rate per unit of volatility or total risk. Subtracting the risk-free rate from the mean return, the performance associated with risk-taking activities can be isolated. One intuition of this calculation is that a portfolio engaging in “zero risk” investment, such as the purchase of U.S. Treasury bills (for which the expected return is the risk-free rate), has a Sharpe ratio of exactly zero. Generally, the greater the value of the Sharpe ratio, the more attractive the risk-adjusted return.
-
-
-
-**Treynor Ratio (treynor_ratio_3y Variable):**
-
-The Treynor ratio, also known as the reward-to-volatility ratio, is a metric for determining how much excess return was generated for each unit of risk taken on by a portfolio. Excess return in this sense refers to the return earned above the return that could have been earned in a risk-free investment. Although there is no true risk-free investment, treasury bills are often used to represent the risk-free return in the Treynor ratio. Risk in the Treynor ratio refers to market risk, as measured by beta. Beta measures the tendency of a portfolio’s return to change in response to changes in return for the overall market.
-Read more: [Treynor Ratio](https://www.investopedia.com/terms/t/treynorratio.asp#ixzz5U1rFVbYG)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 # Solution
@@ -173,6 +138,29 @@ The solution code is divided into the following sections:
     * Prediction on Final Test data
     * Prepate the Submission file
 
-The complete solution can be accessed from [here](Yes_Bank_Datathon-Final_Submission.ipynb)
+The complete solution can be accessed from [here](https://github.com/rajat250996/Yes-Bank-closing-stock-price-prediction/blob/main/Yes_Bank_Stock_Closing_Price_Prediction.ipynb)
 
-Note: Datasets are not provided as the datasets are proprietary and do not comply with the License.
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 💶 Credits
+
+Contact me for Data Science Project Collaborations
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajatchaudhary25/)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 📚 References
+*	GeeksforGeeks
+*	Analytics Vidhya
+*	Stackoverflow
+*	Towards data science
+*	Python libraries documentation
+*	Data camp
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+If you have any feedback, please reach out to us at rajat.25.chaudhary@gmail.com
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
